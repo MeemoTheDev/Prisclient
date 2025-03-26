@@ -38,7 +38,7 @@
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "ismobilejs": "^1.1.1",
-    "lit": "^2.0.2",
+    "lit": "^3.2.1",
     "net-browserify": "PrismarineJS/net-browserify",
     "querystring": "^0.2.1",
     "url": "^0.11.0"
